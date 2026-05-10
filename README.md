@@ -1,5 +1,5 @@
 ## Hi!
-🔭 I'm a Computer Science undergrad with experience in C++ and Python-based systems, focused
+🔭 I'm a Computer Science undergrad with experience in Java, SQL, C++ and Python-based systems, focused
     on building computational models, physics simulations, and AI-assisted development tools.
 
 Strong foundation in algorithms, mathematics, and applied problem-solving through academic projects,
