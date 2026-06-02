@@ -1,11 +1,8 @@
 ## Hi!
-🔭 I'm a Computer Science undergrad with experience in Java, SQL, C++ and Python-based systems, focused
-    on building computational models, physics simulations, and AI-assisted development tools.
+⚡I'm a Computer Science undergrad with experience in Java, SQL, C++ and Python-based systems, focused 
+ on building computational models, physics simulations, and AI-assisted development tools.
 
-Strong foundation in algorithms, mathematics, and applied problem-solving through academic projects,
-Olympiad training, and technical society work.
-
-Interested in machine learning, simulation, and intelligent systems, with exposure to building structured software
+🔭 I'm interested in machine learning, simulation, and intelligent systems, with exposure to building structured software
 systems and working on research-oriented technical problems
 <!--
 **eiman-fatimaa/eiman-fatimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Fun fact: ...
 -->
